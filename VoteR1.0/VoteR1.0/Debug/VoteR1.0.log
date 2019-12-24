@@ -1,0 +1,28 @@
+﻿  VoteR1.cpp
+c:\users\guocd_000\downloads\c++ stuff\voter1.0\voter1.0\voter1.cpp(103): warning C4244: 'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+c:\users\guocd_000\downloads\c++ stuff\voter1.0\voter1.0\voter1.cpp(150): warning C4244: 'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+c:\users\guocd_000\downloads\c++ stuff\voter1.0\voter1.0\voter1.cpp(306): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\guocd_000\downloads\c++ stuff\voter1.0\voter1.0\voter1.cpp(397): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\guocd_000\downloads\c++ stuff\voter1.0\voter1.0\voter1.cpp(406): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\guocd_000\downloads\c++ stuff\voter1.0\voter1.0\voter1.cpp(407): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\guocd_000\downloads\c++ stuff\voter1.0\voter1.0\voter1.cpp(410): warning C4244: 'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+c:\users\guocd_000\downloads\c++ stuff\voter1.0\voter1.0\voter1.cpp(413): warning C4244: 'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+c:\users\guocd_000\downloads\c++ stuff\voter1.0\voter1.0\voter1.cpp(426): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\guocd_000\downloads\c++ stuff\voter1.0\voter1.0\voter1.cpp(427): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\guocd_000\downloads\c++ stuff\voter1.0\voter1.0\voter1.cpp(434): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\guocd_000\downloads\c++ stuff\voter1.0\voter1.0\voter1.cpp(435): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\guocd_000\downloads\c++ stuff\voter1.0\voter1.0\search.h(19): warning C4244: 'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+  c:\users\guocd_000\downloads\c++ stuff\voter1.0\voter1.0\voter1.cpp(101): note: see reference to function template instantiation '__int64 binarySearch<NvraRecord>(const T &,const TemplatedArray<T> &,const Comparator<T> &)' being compiled
+          with
+          [
+              T=NvraRecord
+          ]
+c:\users\guocd_000\downloads\c++ stuff\voter1.0\voter1.0\search.h(22): warning C4244: 'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+c:\users\guocd_000\downloads\c++ stuff\voter1.0\voter1.0\search.h(29): warning C4244: 'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+c:\users\guocd_000\downloads\c++ stuff\voter1.0\voter1.0\voter1.cpp(382): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+  c:\users\guocd_000\downloads\c++ stuff\voter1.0\voter1.0\voter1.cpp(339): note: see reference to function template instantiation '__int64 linearSearch<NvraRecord>(const T &,const TemplatedArray<T> &,const Comparator<T> &)' being compiled
+          with
+          [
+              T=NvraRecord
+          ]
+  VoteR1.0.vcxproj -> C:\Users\guocd_000\Downloads\C++ Stuff\VoteR1.0\Debug\VoteR1.0.exe
