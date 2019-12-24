@@ -1,0 +1,10 @@
+anh vu;oklahoma;1
+annie leonhart;marley;2
+cheadle yorkshire;hunter assocation;5
+chrollo lucilfer;meteor city;5
+eren yaeger;shiganshina district;1
+gyro;ngl;5
+illumi zoldycks;kukuroo mountain;5
+killua zoldycks;kukuroo mountain;1
+meurem;east gorteau;3
+zeno zoldycks;kukuroo mountain;4
